@@ -1,0 +1,31 @@
+
+.main-navbar{
+    background-color: #dfdce3;
+    height: auto;
+    /*padding-top:20px;*/
+    /*margin-top:5px;*/
+    text-align: center;
+    width:auto
+}
+
+
+strong{
+    background-color: transparent
+}
+button{
+    font-family: 'Open Sans', sans-serif;
+    color:#465c8b;
+    background: transparent;
+    border:transparent;
+    margin:0px;
+    cursor:pointer;
+    background-repeat: no-repeat;
+    font-size:50px;
+    
+}
+
+.last-button{
+    border:transparent;
+}
+
+.picture
