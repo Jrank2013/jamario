@@ -9,15 +9,16 @@
 }
 
 
-strong{
+.navbar-buttons{
     background-color: transparent
 }
+
 button{
     font-family: 'Open Sans', sans-serif;
     color:#465c8b;
     background: transparent;
     border:transparent;
-    margin:0px;
+    margin:5px;
     cursor:pointer;
     background-repeat: no-repeat;
     font-size:50px;
@@ -28,4 +29,12 @@ button{
     border:transparent;
 }
 
-.picture
+.picture-of-me{
+    text-align: center;
+}
+
+.img-round{
+    width:200px;
+    height: auto;
+    border-radius: 80%;
+}
