@@ -11,9 +11,10 @@
 }
 
 
-strong{
+.navbar-buttons{
     background-color: transparent
 }
+
 button{
     font-family: 'Open Sans', sans-serif;
     color:#465c8b;
@@ -30,6 +31,7 @@ button{
     border:transparent;
 }
 
+<<<<<<< HEAD:css/main.css
 .img-round{
     height:auto;
     width:400px;
@@ -45,4 +47,14 @@ main{
     text-align: center;
     color: #dc565b;
     font-size: 50px;
+=======
+.picture-of-me{
+    text-align: center;
+}
+
+.img-round{
+    width:200px;
+    height: auto;
+    border-radius: 80%;
+>>>>>>> 94e8be945a94e3ef57cda71a65082f6563e8a062:css/main.css
 }
