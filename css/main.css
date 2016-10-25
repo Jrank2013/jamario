@@ -7,12 +7,20 @@
     height: auto;
     padding-top:5px;
     text-align: center;
-    width:auto
+    width:auto;
+ 
 }
 
-
 .navbar-buttons{
-    background-color: transparent
+    background-color:transparent;
+    
+}
+.list{
+
+    list-style: none;
+    display: inline-block;
+    font-size: 50px;
+    /*background-color: transparent;*/
 }
 
 button{
@@ -49,3 +57,8 @@ main{
     color: #dc565b;
     font-size: 50px;
 }
+
+.list{
+    
+}
+
