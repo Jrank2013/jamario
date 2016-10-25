@@ -1,11 +1,11 @@
 *{
-    background-color:#93c17a 
+    background-color:#93c17a;
+    /*background-image: 'images\untitled.png'*/
 }
 .main-navbar{
     background-color: #dfdce3;
     height: auto;
-    padding:5px;
-    /*margin-top:5px;*/
+    padding-top:5px;
     text-align: center;
     width:auto
 }
@@ -40,17 +40,12 @@ button{
 
 .picture-of-me{
     margin-top: 70px;
-    text-align: center;
+    margin-left: auto;
+    margin-right:auto;
 }
 
 main{
     text-align: center;
     color: #dc565b;
     font-size: 50px;
-}
-
-.img-round{
-    width:400px;
-    height: auto;
-    border-radius: 80%;
 }
